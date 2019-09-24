@@ -18,7 +18,7 @@ Skills leveraged: Numpy, pandas, BeautifulSoup, Linear Regression, Simulation Th
 Using python to understand population clusters using a ups dataset.
 
 4. Restaurant Reviews
-Predicting if a review will be positive or negative based on the language involved./
+Predicting if a review will be positive or negative based on the language involved
 Skills Leveraged: Natural Language Processing, Numpy, predictions
 
 5. K Nearest Neighbor Classifier

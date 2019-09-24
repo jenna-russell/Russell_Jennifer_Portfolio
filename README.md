@@ -24,3 +24,7 @@ Skills Leveraged: Natural Language Processing, Numpy, predictions
 5. K Nearest Neighbor Classifier
 Creates a classifier for predicting the k-nearest neighbors to a point
 Skills Leveraged: Numpy, Linear ALgebra, Classifiers
+
+6. Perceptron Linear Classifier
+Used Perceptron algorithm to linearly classify vectors.
+Skills Leveraged: Perceptron, Linear Classifiers, Numpy

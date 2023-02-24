@@ -29,4 +29,4 @@ I appreciate you taking the time to look through my work. I am passionate about 
 jjrussell10@gmail.com if you have any questions, comments, or suggestions. 
 
 Thanks,
-Jennifers
+Jennifer
